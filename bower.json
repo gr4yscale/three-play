@@ -1,0 +1,19 @@
+{
+  "name": "three-play",
+  "version": "0.0.0",
+  "authors": [
+    "Tyler Powers <gr4yscale@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "almond": "~0.3.1",
+    "threejs": "*"
+  }
+}
